@@ -1,4 +1,6 @@
 # R-script by Gunjan Gautam 
+
+# Set working directory
 setwd("C:/R/")
 
 #-------------------------------------------------------------------------------
