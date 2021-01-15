@@ -1,4 +1,4 @@
-# R-script by Gunjan Gautam for Assignement 2
+# R-script by Gunjan Gautam 
 setwd("C:/R/")
 
 #-------------------------------------------------------------------------------
